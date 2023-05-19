@@ -17,5 +17,4 @@ for x in range(5):
 arrayThree = arrayOne + arrayTwo
 arrayThree.sort(reverse=True)
 
-print(f"\nLista ordenada: {arrayThree}")
-
+print(f"\nLista ordenada descendete: {arrayThree}")
