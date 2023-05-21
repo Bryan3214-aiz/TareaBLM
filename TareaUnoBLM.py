@@ -14,7 +14,7 @@ for i in range(5):#Solicita 5 numeros que se almacenaran en "arrayOne"
         arrayOne.append(numbers)
 
 print("\n  Lista numero 2  \n")
-for i in range(5):#Solicita 5 numeros que se almacenaran en "arrayOne"
+for i in range(5):#Solicita 5 numeros que se almacenaran en "arrayTwo"
     try:
         numbers = int(input("Ingrese un numero: "))
         arrayTwo.append(numbers)
